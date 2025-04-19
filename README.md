@@ -1,1 +1,4 @@
-# JavaScript_2025.04.18
+# Review JS
+  - continue review from destructuring
+  - Practice challange
+  
